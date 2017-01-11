@@ -10,11 +10,11 @@
 
 ### Day 1: January 10, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Finished several more days of Javascript30 (through 13 I think!).  Also started working on [Getting Started with P5.js](http://shop.oreilly.com/product/0636920032076.do).
 
-**Thoughts**: 
+**Thoughts**: Excited to get back to P5.js.  Got more than just 1 hour done today, closer to 3 or so.
 
-**Link(s) to work**: 
+**Link(s) to work**: [JavaScript30 days 10-13](https://github.com/rpalo/JavaScript30)
 
 
 ### Day 2: January 11, 2017
