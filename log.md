@@ -19,9 +19,9 @@
 
 ### Day 2: January 11, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Worked through the first 5 chapters of the book Getting Started with P5.js!
 
-**Thoughts** 
+**Thoughts**: I knew most of this stuff, but it's good to learn it from another perspective and review.  There are lots of little tidbits I didn't know about.
 
-**Link(s) to work**
+**Link(s) to work**: [Getting Started with P5.js](http://shop.oreilly.com/product/0636920032076.do)
 
