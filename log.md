@@ -25,3 +25,11 @@
 
 **Link(s) to work**: [Getting Started with P5.js](http://shop.oreilly.com/product/0636920032076.do)
 
+
+### Day 3: January 12, 2017
+
+**Today's Progress**: Finished another couple of episodes of JavaScript30!  15-18.  Over halfway!
+
+**Thoughts**: I think this #100daysofcode is going to help me actually finish projects.  I need to find a more consistent time to code so it doesn't get left to the last minute and forgotten.
+
+**Link(s) to work**: [Day 18 of JS30 was the most interesting!](https://github.com/rpalo/JavaScript30/tree/master/18%20-%20Adding%20Up%20Times%20with%20Reduce)
