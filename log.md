@@ -33,3 +33,15 @@
 **Thoughts**: I think this #100daysofcode is going to help me actually finish projects.  I need to find a more consistent time to code so it doesn't get left to the last minute and forgotten.
 
 **Link(s) to work**: [Day 18 of JS30 was the most interesting!](https://github.com/rpalo/JavaScript30/tree/master/18%20-%20Adding%20Up%20Times%20with%20Reduce)
+
+### Day 4: January 13, 2017
+
+Missed it!
+
+### Day 5: January 14, 2017
+
+**Today's Progress**: Wrote a blog post about the JavaScript I'm learning from JavaScript 30!
+
+**Thoughts**: I'm hoping I can make another post here in the next week or so.  That's the goal anyway.
+
+**Link(s) to work**: [My blog!](rpalo.github.io) ... Although the link will soon have to change :)
