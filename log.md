@@ -45,3 +45,19 @@ Missed it!
 **Thoughts**: I'm hoping I can make another post here in the next week or so.  That's the goal anyway.
 
 **Link(s) to work**: [My blog!](rpalo.github.io) ... Although the link will soon have to change :)
+
+### Day 6: January 15, 2017
+
+**Today's Progress**: Completed more JavaScript 30.  
+
+**Thoughts**: Almost done!  I learned about the speach to text APIs and video camera APIs
+
+**Link(s) to work**: [JavaScript30](https://github.com/rpalo/JavaScript30)
+
+### Day 7: January 16, 2017
+
+**Today's Progress**: Did a poop-ton of JavaScript 30.  Also, got back onto adjusting my blog draft.  Added water droplets!
+
+**Thoughts**: Not sure if I like the water droplets.
+
+**Link(s) to work**: [The blog](https://github.com/rpalo/blog-draft) (See the p5-animations branch).  And again: [JavaScript30](https://github.com/rpalo/JavaScript30).  One more day!!!
