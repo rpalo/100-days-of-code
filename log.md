@@ -61,3 +61,11 @@ Missed it!
 **Thoughts**: Not sure if I like the water droplets.
 
 **Link(s) to work**: [The blog](https://github.com/rpalo/blog-draft) (See the p5-animations branch).  And again: [JavaScript30](https://github.com/rpalo/JavaScript30).  One more day!!!
+
+### Day 8: January 17, 2017
+
+**Today's Progress**: FINISHED JAVASCRIPT 30!  Boom!  Started What-The-Flexbox, another one of Wes Bos's classes
+
+**Thoughts**: I'm really learning a lot.  Who would have thought this 100 days of code would be so JavaScript focused!
+
+**Link(s) to work**:  [JavaScript30](https://github.com/rpalo/JavaScript30) and [What the FlexBox!](https://flexbox.io)
