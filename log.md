@@ -69,3 +69,11 @@ Missed it!
 **Thoughts**: I'm really learning a lot.  Who would have thought this 100 days of code would be so JavaScript focused!
 
 **Link(s) to work**:  [JavaScript30](https://github.com/rpalo/JavaScript30) and [What the FlexBox!](https://flexbox.io)
+
+### Day 9: January 18, 2017
+
+**Today's Progress**: Updated my personal blog site!  Got all of the styling and highlighting all fixed up along with some shwoopy Javascript courtesy of Wes Bos's class!
+
+**Thoughts**:  This is very exciting.  I am definitely becoming more of a finisher with this 100 days of code.
+
+**Link(s) to work**: [My BLOG!](http://assertnotmagic.com)  (Link should work about 24 hours from this post.)
