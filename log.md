@@ -77,3 +77,8 @@ Missed it!
 **Thoughts**:  This is very exciting.  I am definitely becoming more of a finisher with this 100 days of code.
 
 **Link(s) to work**: [My BLOG!](http://assertnotmagic.com)  (Link should work about 24 hours from this post.)
+
+***
+Sick 1/19-1/26!  Day 10 will be 1/27.  Back to it!
+***
+
