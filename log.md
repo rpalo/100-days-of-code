@@ -82,3 +82,42 @@ Missed it!
 Sick 1/19-1/26!  Day 10 will be 1/27.  Back to it!
 ***
 
+### Day 10: January 27, 2017
+
+**Today's Progress**: Made good progress in Wes Bos's What the Flexbox class.
+
+**Thoughts**: I generally am not a big fan of CSS, but this class is really interesting!
+
+**Link(s) to work**: [My copy of what the flexbox](https://github.com/rpalo/what-the-flexbox)
+
+### Day 11: January 28, 2017
+
+**Today's Progress**: Used a combination of Google Sheets and R to munge/process the results of Jenny's science fair!  Figured out the winners based on an average normalized for judge grumpyness.  Made all manner of histograms and learned about the use of the `order` function in R.
+
+**Thoughts**: It was fun to be able to use my learning for something real-life!
+
+**Link to work**: No link today.  I'm pretty sure the student grades should remain anonymous.
+
+### Day 12: January 29, 2017
+
+**Today's Progress**: Worked through a portion of a book on making a JavaScript physics engine.
+
+**Thoughts**: Not very into it today.  Hopefully I can get myself out of this slump.
+
+**Links**: [The book](http://www.allitebooks.com/building-a-2d-game-physics-engine/)
+
+### Day 13: January 30, 2017
+
+**Today's Progress**: Worked some of Daniel Shiffman's A\* Pathfinding Screencast.
+
+**Thoughts**: Takes me back to my AI class, which I mean to get back to at some point.
+
+**Links**: [The video](https://youtu.be/aKYlikFAV4k)
+
+### Day 14: January 31, 2017
+
+**Today's Progress**: Worked through the official React Tutorial.
+
+**Thoughts**: I really want to get into React, but I haven't quite found the guide/videos/tutorial that gets me where I want to go yet.
+
+**Links**: [The Tutorial](https://facebook.github.io/react/tutorial/tutorial.html)
