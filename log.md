@@ -121,3 +121,19 @@ Sick 1/19-1/26!  Day 10 will be 1/27.  Back to it!
 **Thoughts**: I really want to get into React, but I haven't quite found the guide/videos/tutorial that gets me where I want to go yet.
 
 **Links**: [The Tutorial](https://facebook.github.io/react/tutorial/tutorial.html)
+
+### Day 15: February 1, 2017
+
+**Today's Progress**: Work through a portion of a Udacity class on OOP in JavaScript.  It has some useful insights into the class system, use of `this`, closures, and other more abstract things.
+
+**Thoughts**: Feeling good about getting back at it again.
+
+**Links**: [The class](https://classroom.udacity.com/courses/ud015/lessons/2593668700/concepts/26167386300923)
+
+### Day 16: February 2, 2017
+
+**Today's Progress**: Made a new blog post about default arguments in python!  More work in the Udacity JavaScript OOP class.
+
+**Thoughts**: I'm really proud of this blog post and the look of my blog in general.  I think it looks pretty great!
+
+**Links**: [Default Arguments](http://assertnotmagic.com/2017/02/02/default-argument-tricks.html)
