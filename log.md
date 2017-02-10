@@ -185,3 +185,11 @@ Sick 1/19-1/26!  Day 10 will be 1/27.  Back to it!
 **Thoughts**: So far I really like VSCode!  It's like what you would expect if a multi-billion dollar company put itself behind Sublime Text.  I'll keep using it and maybe add a post to my blog.
 
 **Links**: [Get Visual Studio Code](http://code.visualstudio.com/)
+
+### Day 23: February 9, 2017
+
+**Today's Progress**: Tried to learn algorithmic trading for the second time.  Still didn't stick.
+
+**Thoughts**: I don't think I've found the right teacher/book/class yet.
+
+**Links**: [Quantopian](https://www.quantopian.com/)
