@@ -193,3 +193,27 @@ Sick 1/19-1/26!  Day 10 will be 1/27.  Back to it!
 **Thoughts**: I don't think I've found the right teacher/book/class yet.
 
 **Links**: [Quantopian](https://www.quantopian.com/)
+
+### Day 24: February 10, 2017
+
+**Today's Progress**: Working on adding to the ProtoQuick portal!
+
+**Thoughts**: An actual project that means something instead of just learning is a good change of pace!
+
+**Links**: [PQ Portal](https://github.com/rpalo/pq-portal]
+
+### Day 25: February 11, 2017
+
+**Today's Progress**: Made a new blog post about VSCode.
+
+**Thoughts**: I love VSCode.  A lot.
+
+**Links**: [Coding with Code](http://assertnotmagic.com/2017/02/11/coding-with-code.html)
+
+### Day 26: February 12, 2017
+
+**Today's Progress**: Worked some more on the Rails Intro course.
+
+**Thoughts**: Still moving through the Ruby Basics.  It's a good review.  I really like Ruby as a language.
+
+**Links**: No new links.
